@@ -1,3 +1,4 @@
 CREATE TABLE my_table
 (col1 VARCHAR2(25)
-,col2 NUMBER);
+,col2 NUMBER
+,col3 DATE);
